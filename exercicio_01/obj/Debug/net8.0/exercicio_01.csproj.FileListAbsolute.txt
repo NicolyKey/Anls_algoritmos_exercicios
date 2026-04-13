@@ -1,0 +1,12 @@
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.AssemblyInfoInputs.cache
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.AssemblyInfo.cs
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.sourcelink.json
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\bin\Debug\net8.0\exercicio_01.deps.json
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\bin\Debug\net8.0\exercicio_01.dll
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\bin\Debug\net8.0\exercicio_01.pdb
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.dll
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\refint\exercicio_01.dll
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\exercicio_01.pdb
+C:\Users\Premiersoft\Documents\Projects\Anls_algoritmos_exercicios\exercicio_01\obj\Debug\net8.0\ref\exercicio_01.dll

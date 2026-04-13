@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLeK2B5pWdQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Premiersoft\\Documents\\Projects\\Anls_algoritmos_exercicios\\exercicio_01\\exercicio_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Premiersoft\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Premiersoft\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Premiersoft\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
