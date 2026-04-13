@@ -33,7 +33,7 @@ public class Questao01
             var tempoLista = MedirTempo(() => lista.Add(i));
             var tempoListaEncadeada = MedirTempo(() => listaEncadeada.AddLast(i));
 
-            Console.WriteLine($"N = {i}");
+            Console.WriteLine($"repeticao = {i}");
             Console.WriteLine($"Tempo inserção Lista: {tempoLista} ms");
             Console.WriteLine($"Tempo inserção Lista Encadeada: {tempoListaEncadeada} ms");
             Console.WriteLine(new string('-', 30));
@@ -48,7 +48,7 @@ public class Questao01
           
             var tempoLista = MedirTempo(() => lista.Add(1));
 
-            Console.WriteLine($"Capacidade inicial: {capacidade}");
+            Console.WriteLine($"capacidade = {capacidade}");
             Console.WriteLine($"Tempo inserção Lista: {tempoLista} ms");
             Console.WriteLine(new string('-', 30));
         }
