@@ -28,7 +28,7 @@ public class Questao02Tests
         var output = writer.ToString();
         
         _output.WriteLine(output);
-        Assert.Contains("Tempo inserção Lista (posição aleatória):", output);
-        Assert.Contains("Posição de inserção:", output);
+        Assert.Contains("Tempo inserção Lista posição aleatória:", output);
+        Assert.Contains("repeticao =", output);
     }
 }
