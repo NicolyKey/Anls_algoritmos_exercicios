@@ -93,23 +93,9 @@ Compare a velocidade de inserção de novos elementos ao final das duas estrutur
   ------------------------------
 ```
 
-**Análise dos resultados:**
-
-- Tempo médio List<T> (N=1 a N=19): ~5,5 ms
-- Tempo médio LinkedList<T> (N=1 a N=19): ~8,5 ms
-
-**Speedup:** List<T> é aproximadamente **1,55x mais rápida** que LinkedList<T>
-
-**Cálculo:** Speedup = Tempo_LinkedList / Tempo_List = 8,5 / 5,5 ≈ 1,55
-
-**Por que List<T> é mais rápida?**
-A LinkedList é mais lenta por possuir mais operações e também não ter linearidade ao acessar os elementos. Quando fazemos um `AddLast()`, precisamos:
-
-1. Alocar um novo nó na memória (heap allocation)
-2. Atualizar os ponteiros `Previous` e `Next` daquele nó
-3. Atualizar o ponteiro do último nó da lista
-
-Enquanto na List<T>, o `Add()` apenas coloca o valor na próxima posição do array (operação muito mais rápida devido à localidade de cache).
+- Tempo médio List<T>: ~5,5 ms
+- Tempo médio LinkedList<T>: ~8,5 ms
+A LinkedList é mais lenta por possuir mais operações e também não ter linearidade ao acessar os elementos.
 
 3. No caso do ArrayList, avalie se alterar a capacidade inicial influencia no desempenho.
    Realize 10 execuções para cada uma das seguintes capacidades iniciais:
